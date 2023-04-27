@@ -13,6 +13,9 @@
   "unpublishedAppLayout": {
     "type": "TABLET"
   },
+  "publishedAppLayout": {
+    "type": "TABLET"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
