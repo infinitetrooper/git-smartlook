@@ -12,13 +12,18 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    }
+  },
   "color": "#C2DAF0",
   "icon": "hat",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "TABLET"
+    "type": "DESKTOP"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
