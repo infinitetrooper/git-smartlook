@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -11,7 +15,7 @@
   "color": "#C2DAF0",
   "icon": "hat",
   "unpublishedAppLayout": {
-    "type": "TABLET"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "TABLET"
