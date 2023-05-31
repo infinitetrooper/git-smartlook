@@ -21,9 +21,10 @@
           "canExtend": true,
           "version": 79,
           "minHeight": 1292,
-          "useAutoLayout": false,
+          "useAutoLayout": true,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
+          "responsiveBehavior": "fill",
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
@@ -47,6 +48,7 @@
               "leftColumn": 0,
               "dynamicBindingPathList": [],
               "key": "inckrcyhz1",
+              "flexVerticalAlignment": "end",
               "isDeprecated": false,
               "rightColumn": 64,
               "widgetId": "91urbcgcwg",
@@ -57,7 +59,9 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "autoPlay": false
+              "responsiveBehavior": "fill",
+              "autoPlay": false,
+              "alignment": "start"
             },
             {
               "boxShadow": "none",
@@ -86,6 +90,7 @@
               ],
               "isDisabled": false,
               "key": "ghmml292ec",
+              "flexVerticalAlignment": "end",
               "isDeprecated": false,
               "rightColumn": 64,
               "widgetId": "jvxnf86m59",
@@ -96,11 +101,31 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
+              "responsiveBehavior": "fill",
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "iconColor": "white"
+              "iconColor": "white",
+              "alignment": "start"
             }
           ],
-          "positioning": "fixed"
+          "positioning": "vertical",
+          "flexLayers": [
+            {
+              "children": [
+                {
+                  "id": "91urbcgcwg",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "jvxnf86m59",
+                  "align": "start"
+                }
+              ]
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
