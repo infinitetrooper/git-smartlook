@@ -14,12 +14,12 @@
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
     "appPositioning": {
-      "type": "AUTO"
+      "type": "FIXED"
     }
   },
   "publishedApplicationDetail": {
     "appPositioning": {
-      "type": "FIXED"
+      "type": "AUTO"
     }
   },
   "color": "#C2DAF0",
