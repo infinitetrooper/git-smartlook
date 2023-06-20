@@ -93,7 +93,8 @@
                       "mobileRightColumn": 23,
                       "animateLoading": true,
                       "parentColumnSpace": 3.419921875,
-                      "leftColumn": 19,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 21,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -106,7 +107,7 @@
                       "key": "nymy7hgkg8",
                       "isDeprecated": false,
                       "rightColumn": 23,
-                      "iconName": "plus",
+                      "iconName": "play",
                       "widgetId": "fqvxkxk4xw",
                       "minWidth": 50,
                       "isVisible": true,
