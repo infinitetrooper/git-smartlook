@@ -17,11 +17,6 @@
       "type": "FIXED"
     }
   },
-  "publishedApplicationDetail": {
-    "appPositioning": {
-      "type": "AUTO"
-    }
-  },
   "color": "#C2DAF0",
   "icon": "hat",
   "unpublishedAppLayout": {
