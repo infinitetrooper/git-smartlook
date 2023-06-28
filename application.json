@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Business dashboard",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
@@ -17,13 +21,13 @@
       "type": "FIXED"
     }
   },
-  "color": "#C2DAF0",
-  "icon": "hat",
+  "color": "#FBF4ED",
+  "icon": "bitcoin",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
