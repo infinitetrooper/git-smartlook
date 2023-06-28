@@ -39,14 +39,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Business dashboard_select_repair_db",
-              "name": "select_repair_db",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "Business dashboard_select_repair_revenue",
               "name": "select_repair_revenue",
               "confirmBeforeExecute": false,
@@ -61,6 +53,16 @@
             {
               "id": "Business dashboard_select_showroom_db",
               "name": "select_showroom_db",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Business dashboard_select_repair_db",
+              "name": "select_repair_db",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
@@ -103,9 +105,6 @@
           ]
         ],
         "layoutOnLoadActionErrors": [],
-        "mongoEscapedWidgetNames": [
-          "Table1Copy"
-        ],
         "validOnPageLoadActions": true,
         "id": "Business dashboard",
         "deleted": false,
