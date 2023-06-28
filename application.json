@@ -6,11 +6,15 @@
     },
     {
       "id": "Page1",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Empty Page",
+      "isDefault": true
     }
   ],
   "viewMode": false,
